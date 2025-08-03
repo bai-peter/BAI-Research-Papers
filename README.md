@@ -13,7 +13,7 @@
 
 This research examines the emerging phenomenon of real-time dynamic pricing in grocery retail, analyzing how traditional shelf-based commerce is evolving into a sophisticated exchange economy. Through market microstructure analysis, the study reveals how grocery stores are implementing algorithmic pricing strategies that respond to real-time demand signals, inventory levels, and competitive dynamics.
 
-The paper investigates the transformation of static grocery pricing into a dynamic, data-driven system where prices fluctuate based on factors including time-of-day demand patterns, inventory turnover rates, and cross-product elasticity effects. This shift represents a fundamental change in retail economics, creating what the author terms a "shelf-based exchange economy."
+The paper investigates the transformation of static grocery pricing into a dynamic, data-driven system where prices fluctuate based on factors including time-of-day demand patterns, inventory turnover rates, and cross-product elasticity effects. This shift represents a fundamental change in retail economics, creating what I term a "shelf-based exchange economy."
 
 ## Key Findings
 
@@ -23,9 +23,9 @@ The paper investigates the transformation of static grocery pricing into a dynam
 
 • **Exchange Economy Formation**: The grocery shelf is becoming a dynamic marketplace where prices reflect real-time supply-demand imbalances, creating opportunities for both retailers and consumers to optimize their economic outcomes.
 
-## About the Author
+## About Me
 
-**Peter Bai** is a macro-trading focused researcher at Ivey Business School. He writes at the intersection of real-world infrastructure, financial markets, and system design.
+I'm a macro-trading focused researcher at Ivey Business School. I write at the intersection of real-world infrastructure, financial markets, and system design.
 
 ## Citation
 
