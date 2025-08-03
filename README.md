@@ -7,6 +7,8 @@
 
 > *"The grocery shelf is becoming the most sophisticated real-time trading floor in the world."*
 
+*Note: This research employs satirical framing to examine real phenomena in retail economics. While the terminology may seem hyperbolic, the underlying analysis of dynamic pricing algorithms and market mechanisms is grounded in empirical observation.*
+
 ## Abstract
 
 This research examines the emerging phenomenon of real-time dynamic pricing in grocery retail, analyzing how traditional shelf-based commerce is evolving into a sophisticated exchange economy. Through market microstructure analysis, the study reveals how grocery stores are implementing algorithmic pricing strategies that respond to real-time demand signals, inventory levels, and competitive dynamics.
