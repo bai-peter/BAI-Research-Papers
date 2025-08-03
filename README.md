@@ -7,7 +7,7 @@
 
 > *"The grocery shelf is becoming the most sophisticated real-time trading floor in the world."*
 
-*Note: This research employs satirical framing to examine real phenomena in retail economics. While the terminology may seem hyperbolic, the underlying analysis of dynamic pricing algorithms and market mechanisms is grounded in empirical observation.*
+*Note: This is 100% a shitpost for fun. I'm just a student at Ivey Business School who happened to have worked in the markets environment. This is a fun idea I'm keeping out here in case someone does decide to do this one day.*
 
 ## Abstract
 
@@ -25,7 +25,7 @@ The paper investigates the transformation of static grocery pricing into a dynam
 
 ## About Me
 
-I'm a macro-trading focused researcher at Ivey Business School. I write at the intersection of real-world infrastructure, financial markets, and system design.
+I'm a student at Ivey Business School who happened to have worked in the markets environment. This is just a fun idea I'm keeping out here in case someone does decide to do this one day.
 
 ## Citation
 
