@@ -7,7 +7,7 @@
 
 > *"The grocery shelf is becoming the most sophisticated real-time trading floor in the world."*
 
-*Note: This is 100% a shitpost for fun. I'm just a student at Ivey Business School who happened to have worked in the markets environment. This is a fun idea I'm keeping out here in case someone does decide to do this one day.*
+*Note: This is 100% a sh1tpost for fun. I'm just a student at Ivey Business School who happened to have worked in the markets environment. This is a fun idea I'm keeping out here in case someone does decide to do this one day.*
 
 ## Abstract
 
@@ -23,9 +23,6 @@ The paper investigates the transformation of static grocery pricing into a dynam
 
 • **Exchange Economy Formation**: The grocery shelf is becoming a dynamic marketplace where prices reflect real-time supply-demand imbalances, creating opportunities for both retailers and consumers to optimize their economic outcomes.
 
-## About Me
-
-I'm a student at Ivey Business School who happened to have worked in the markets environment. This is just a fun idea I'm keeping out here in case someone does decide to do this one day.
 
 ## Citation
 
